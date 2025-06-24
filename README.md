@@ -73,7 +73,7 @@ A Portuguese Bank Cleaned Data.xlsx
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="FAVOUR NNADOZIE - RESUME.pdf">Download my CV</a></td>
+      <td><a href="FAVOUR NNADOZIE - RESUME.pdf">Download My CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
