@@ -40,7 +40,7 @@ With experience across sales, finance, and customer service, I help businesses s
 ![image](Demographic  Analysis.PNG)
 
 # Root Cause Analysis
-![image](Demographic  Analysis.PNG)
+![image](Root Cause Analysis.PNG)
 
 [Click to access report](https://docs.google.com/presentation/d/1d871Fv7H9wDnttd98xoAzaFWoKgEgBgn/edit?usp=sharing&ouid=112339119813873149850&rtpof=true&sd=true)
 
