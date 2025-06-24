@@ -54,4 +54,32 @@ A Portuguese Bank Cleaned Data.xlsx
 <a href="Pillar Bank Project Documentation.pdf">Download the Report here (pdf file)</a> Pillar Bank Project Documentation
 
 
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:favour.chinedu.nnadozie@gmail.com">favour.chinedu.nnadozie@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 703-214-5202</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Lagos, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="http://www.linkedin.com/in/favournnadozie">The things I do daily on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
