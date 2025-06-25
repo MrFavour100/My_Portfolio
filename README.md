@@ -42,7 +42,7 @@ With experience across sales, finance, and customer service, I help businesses s
 # Root Cause Analysis
 ![image](Root Cause Analysis.PNG)
 
-[Click to access report](https://docs.google.com/presentation/d/1d871Fv7H9wDnttd98xoAzaFWoKgEgBgn/edit?usp=sharing&ouid=112339119813873149850&rtpof=true&sd=true)
+[Click to access report](https://drive.google.com/file/d/1UEfBeA_YpQnLsRZSN1dAgGy8VmytZ1xY/view?usp=sharing)
 
 [Also Read more via LinkedIn](http://www.linkedin.com/in/favournnadozie)
 
