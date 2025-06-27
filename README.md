@@ -54,6 +54,21 @@ A Portuguese Bank Cleaned Data.xlsx
 <a href="Pillar Bank Project Documentation.pdf">Download the Report here (pdf file)</a> Pillar Bank Project Documentation
 
 
+
+
+# Hotel Guest Experience Analysis
+What 15,000+ Hotel Guests Taught Me About Experience, Loyalty, and Growth.
+
+![image]()
+
+
+
+
+
+
+
+
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
