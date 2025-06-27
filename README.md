@@ -70,7 +70,7 @@ After analyzing thousands of guest reviews, a story emerged—one that many busi
 # Car Sales Analysis
 Uncovering trends that drive results: this interactive car sales dashboard highlights key sales insights by region, gender, age, and model, Therefore, empowering data-driven decisions that move businesses forward."
 
-![image]()
+![image](CAR SALES VOLUME ANALYSIS DASHBOARD.PNG)
 
 
 
