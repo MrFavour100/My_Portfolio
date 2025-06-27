@@ -58,13 +58,19 @@ A Portuguese Bank Cleaned Data.xlsx
 
 # Hotel Guest Experience Analysis
 What 15,000+ Hotel Guests Taught Me About Experience, Loyalty, and Growth.
+Most hotels collect feedback. Few actually listen.
+
+![image](HOTEL GUEST FEEDBACK DASHBOARD.png)
+After analyzing thousands of guest reviews, a story emerged—one that many businesses overlook.
+[Click here to access cleaning processes.]()
+[Click here to access report.]()
+
+
+
+# Car Sales Analysis
+Uncovering trends that drive results: this interactive car sales dashboard highlights key sales insights by region, gender, age, and model, Therefore, empowering data-driven decisions that move businesses forward."
 
 ![image]()
-
-
-
-
-
 
 
 
