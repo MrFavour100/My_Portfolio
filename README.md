@@ -62,7 +62,7 @@ What 15,000+ Hotel Guests Taught Me About Experience, Loyalty, and Growth.
 Most hotels collect feedback. Few actually listen.
 
 ![image](HOTEL GUEST FEEDBACK DASHBOARD.png)
-After analyzing thousands of guest reviews, a story emerged—one that many businesses overlook.
+After analyzing thousands of guest reviews, a story emerged, one that many businesses overlook.
 
 [Click here to access cleaning processes.]()
 
