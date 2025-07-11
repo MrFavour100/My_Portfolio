@@ -1,7 +1,7 @@
-## INTERNPULSE        # [PAGE 2](https://mrfavour100.github.io/Stage-4-Group_one_project_internpulse/)
+## MY PORTFOLIO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ CLICK FOR PAGE 2](https://mrfavour100.github.io/Stage-4-Group_one_project_internpulse/)
 
 
-This Repository houses all my internship projects with INTERNPULSE.
+**This Repository Houses My Major Projects.**
 
 ## ABOUT ME
 
