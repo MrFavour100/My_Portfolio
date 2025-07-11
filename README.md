@@ -30,7 +30,7 @@ With experience across sales, finance, and customer service, I help businesses s
 **✅ Currently contributing to research analyzing JAMB examination results (2020 - 2025), building predictive models to forecast trends (2026 - 2030), and providing data-driven recommendations for improving student success rates.**
 
 
-## MY PROJECTS UNDER INTERNPULSE
+## MY PROJECTS
 
 *An overview of recent projects I have contributed to:*
 
@@ -63,7 +63,9 @@ Most hotels collect feedback. Few actually listen.
 
 ![image](HOTEL GUEST FEEDBACK DASHBOARD.png)
 After analyzing thousands of guest reviews, a story emerged—one that many businesses overlook.
+
 [Click here to access cleaning processes.]()
+
 [Click here to access report.]()
 
 
