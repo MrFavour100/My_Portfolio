@@ -64,7 +64,7 @@ Most hotels collect feedback. Few actually listen.
 ![image](HOTEL GUEST FEEDBACK DASHBOARD.png)
 After analyzing thousands of guest reviews, a story emerged, one that many businesses overlook.
 
-[Click here to access cleaning processes.]()
+[Click here to access cleaning processes.](https://shorturl.at/lY4PO)
 
 [Click here to access report.]()
 
