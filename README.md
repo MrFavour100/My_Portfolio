@@ -102,7 +102,7 @@ Uncovering trends that drive results: this interactive car sales dashboard highl
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="http://www.linkedin.com/in/favournnadozie">The things I do daily on LinkedIn</a></td>
+      <td><a href="[http://www.linkedin.com/in/favournnadozie](https://www.linkedin.com/in/favournnadozie/recent-activity/all/)">The things I do daily on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
