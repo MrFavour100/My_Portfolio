@@ -77,7 +77,7 @@ Uncovering trends that drive results: this interactive car sales dashboard highl
 
 [Click here to access cleaning processes.](https://shorturl.at/lY4PO)
 
-[Click here to access report.]()
+[Click here to access report.](https://drive.google.com/file/d/1jirAT33bpBSnkv_BfMZTGloag9h4BFPa/view?usp=sharing)
 
 
 
