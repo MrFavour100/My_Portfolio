@@ -68,6 +68,8 @@ After analyzing thousands of guest reviews, a story emerged, one that many busin
 
 [Click here to access report.]()
 
+[Click to View Dashboard.](https://public.tableau.com/app/profile/favour.chinedu.nnadozie/vizzes)
+
 
 
 # Car Sales Analysis
