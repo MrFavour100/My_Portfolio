@@ -90,7 +90,7 @@ Uncovering trends that drive results: this interactive car sales dashboard highl
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 703-214-5202</td>
+      <td>(+234) 703-214-5202</td>
     </tr>
     <tr>
       <td>📍</td>
