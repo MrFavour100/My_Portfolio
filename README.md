@@ -98,7 +98,7 @@ Uncovering trends that drive results: this interactive car sales dashboard highl
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="FAVOUR NNADOZIE - RESUME.pdf">Download My CV</a></td>
+      <td><a href="FAVOUR_NNADOZIE - CV.pdf">Download My CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
